@@ -1,8 +1,8 @@
 # Portfolio Personnel 🔥  
 
-Je vous présente mon portfolio. Il a été cloné de [rajaprerak](https://github.com/rajaprerak/rajaprerak.github.io), modifié et adapté selon mes besoins.  
+Je vous présente mon portfolio. Un portfolio interactif que j'ai créé pour mettre en valeur mes compétences, mes projets et mon parcours. Il a été développé en utilisant des technologies simple telles que Html , CSS et JS , avec une mise en page fluide et une navigation facile.
 
-> [Lien vers le site](https://rajaprerak.github.io/)  
+> [Lien vers le site](https://heli2805.github.io/Personal-Portfolio/)  
 
 ⭐️ **Ajoutez une étoile sur GitHub** — Cela aide beaucoup !  
 
@@ -10,7 +10,7 @@ Je vous présente mon portfolio. Il a été cloné de [rajaprerak](https://githu
 
 ## Aperçu du site web  
 ### Page d'accueil  
-<img src="website_images/HomePage.gif" width="900">  
+<img src="website_images/HomePage.png" width="900">  
 
 ### Page "À propos"  
 <img src="website_images/AboutPage.png" width="900">  
